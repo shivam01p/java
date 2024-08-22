@@ -1,2 +1,2 @@
-# java-
+# java
 java patterns codes
